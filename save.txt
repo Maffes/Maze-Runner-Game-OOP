@@ -1,0 +1,5 @@
+8
+0
+9
+4
+[[Empty, Empty, Gold, Empty, Empty, Empty, Empty, Gold, Empty, Empty], [Empty, Empty, Trap, Gold, Empty, Empty, Empty, Gold, Empty, Empty], [Empty, Apple, Empty, Empty, Empty, Trap, Empty, Empty, Empty, Empty], [Empty, Empty, Empty, Empty, Apple, Empty, Empty, Empty, Empty, Empty], [Empty, Empty, Empty, Empty, Empty, Empty, Empty, Empty, Empty, Empty], [Empty, Empty, Empty, Empty, Empty, Empty, Empty, Empty, Trap, Empty], [Empty, Empty, Apple, Exit, Gold, Apple, Empty, Empty, Empty, Empty], [Empty, Empty, Trap, Empty, Empty, Empty, Empty, Empty, Empty, Empty], [Trap, Trap, Empty, Empty, Empty, Empty, Empty, Empty, Empty, Empty], [Empty, Empty, Empty, Empty, Player, Empty, Empty, Empty, Empty, Empty]]
